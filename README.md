@@ -1,4 +1,4 @@
-# centos-jupyter-docker
+# centos-jupyterhub-docker
 Jupyter docker container with Python, R packages and crond scheduler for jupyterhub
 
 
